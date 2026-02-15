@@ -33,7 +33,7 @@ const Register = () => {
       <div className="w-full max-w-md px-6">
         <div className="text-center mb-12">
           <h1 className="luxury-heading mb-3">Create Account</h1>
-          <p className="luxury-subheading">Join the MAISON community</p>
+          <p className="luxury-subheading">Join the UDRcraft community</p>
         </div>
 
         <form onSubmit={handleSubmit} className="space-y-6">

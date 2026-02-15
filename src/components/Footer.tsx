@@ -33,7 +33,7 @@ const Footer = () => {
         <div className="grid grid-cols-2 md:grid-cols-5 gap-8 mb-16">
           {/* Brand */}
           <div className="col-span-2 md:col-span-1">
-            <Link to="/" className="font-display text-2xl tracking-[0.15em] font-light">MAISON</Link>
+            <Link to="/" className="font-display text-2xl tracking-[0.15em] font-light">UDRcraft</Link>
             <p className="font-body text-xs text-background/50 mt-4 leading-relaxed max-w-xs">
               Curated luxury furniture and décor for the modern home. Crafted with purpose, designed to last.
             </p>
@@ -59,7 +59,7 @@ const Footer = () => {
         {/* Bottom */}
         <div className="border-t border-background/10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="font-body text-[10px] text-background/30 uppercase tracking-[0.1em]">
-            © 2026 MAISON. All rights reserved.
+            © 2026 UDRcraft. All rights reserved.
           </p>
           <div className="flex gap-6">
             {['Instagram', 'Pinterest', 'LinkedIn'].map(social => (

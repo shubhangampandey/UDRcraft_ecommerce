@@ -78,7 +78,7 @@ const Navbar = () => {
             </button>
 
             <Link to="/" className={`font-display text-2xl md:text-3xl font-light tracking-[0.15em] ${textColor} luxury-hover`}>
-              MAISON
+              UDRcraft
             </Link>
 
             <nav className="hidden md:flex items-center gap-8">

@@ -11,12 +11,12 @@ const About = () => {
         </div>
 
         <div className="aspect-[21/9] mb-20 luxury-image-hover bg-secondary">
-          <img src={heroImage} alt="MAISON showroom" className="w-full h-full object-cover" />
+          <img src={heroImage} alt="UDRcraft showroom" className="w-full h-full object-cover" />
         </div>
 
         <div className="max-w-2xl mx-auto space-y-8 mb-20">
           <p className="font-body text-sm leading-relaxed text-muted-foreground">
-            MAISON was founded in 2018 with a singular vision: to make exceptional design accessible. 
+            UDRcraft was founded in 2018 with a singular vision: to make exceptional design accessible. 
             We believe your home should be a sanctuary — a place where every object has been chosen with intention.
           </p>
           <p className="font-body text-sm leading-relaxed text-muted-foreground">

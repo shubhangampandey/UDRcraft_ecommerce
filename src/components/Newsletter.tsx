@@ -14,13 +14,13 @@ const Newsletter = () => {
     <section className="luxury-section bg-secondary">
       <div className="luxury-container text-center max-w-2xl mx-auto">
         <p className="luxury-subheading mb-4">Stay Connected</p>
-        <h2 className="luxury-heading mb-6">Join the MAISON Circle</h2>
+        <h2 className="luxury-heading mb-6">Join the UDRcraft Circle</h2>
         <p className="font-body text-sm text-muted-foreground mb-10">
           Be the first to discover new collections, exclusive offers, and design inspiration.
         </p>
 
         {submitted ? (
-          <p className="font-body text-sm text-foreground">Thank you for subscribing. Welcome to MAISON.</p>
+          <p className="font-body text-sm text-foreground">Thank you for subscribing. Welcome to UDRcraft.</p>
         ) : (
           <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row gap-3 max-w-md mx-auto">
             <input

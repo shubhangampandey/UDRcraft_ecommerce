@@ -1,6 +1,6 @@
-# MAISON Backend
+# Udrcraft Backend
 
-Express + Mongoose backend for the MAISON e-commerce platform.
+Express + Mongoose backend for the UDRcraft e-commerce platform.
 
 ## Setup
 
@@ -11,7 +11,7 @@ npm install
 
 ## Configure
 
-Copy `.env.example` to `.env` and fill in your MongoDB URI and JWT secret.
+Copy .env and fill in your MongoDB URI and JWT secret.
 
 ## Seed Database
 

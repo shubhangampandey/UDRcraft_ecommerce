@@ -2,7 +2,7 @@ const testimonials = [
   {
     name: 'Alexandra M.',
     role: 'Interior Designer',
-    quote: 'The quality of every piece I\'ve ordered has exceeded my expectations. MAISON has become my go-to for client projects.',
+    quote: 'The quality of every piece I\'ve ordered has exceeded my expectations. UDRcraft has become my go-to for client projects.',
     rating: 5,
   },
   {
